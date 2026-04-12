@@ -13,6 +13,9 @@
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-5" value="数据持久层_底层存储" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="91.00001220703126" y="63" width="143" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGtHSAd3jiHRfbt-UKsJ-10" target="kGtHSAd3jiHRfbt-UKsJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-10" value="Web 浏览器交互端" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=54;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="286" y="204" width="120" height="60" as="geometry" />
         </mxCell>
