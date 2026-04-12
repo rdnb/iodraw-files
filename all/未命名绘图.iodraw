@@ -43,8 +43,8 @@
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-58" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=5;labelPosition=left;align=right;" vertex="1" parent="1">
           <mxGeometry x="478" y="512" width="419" height="172" as="geometry" />
         </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-59" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Web 浏览器交互端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="236.5" y="319" width="118" height="40" as="geometry" />
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-59" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Flask Web 调度框架&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="541" y="337" width="118" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
