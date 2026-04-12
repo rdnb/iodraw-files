@@ -44,13 +44,13 @@
           <mxGeometry x="230" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-15" value="&#xa;前后端模块与数据持久化实现&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-16" value="&#xa;软硬件测试环境与评估指标&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-17" value="&#xa;客观量化指标与主观视觉分析&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-18" value="&#xa;总结与展望&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="890" width="120" height="60" as="geometry" />
