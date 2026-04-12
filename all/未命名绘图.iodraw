@@ -52,14 +52,14 @@
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-17" value="&#xa;客观量化指标与主观视觉分析&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-18" value="&#xa;客观量化指标与主观视觉分析&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-18" value="&#xa;总结与展望&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-19" value="&#xa;客观量化指标与主观视觉分析&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-19" value="&#xa;制定基于 APE-GAN 的图像防御与修复落地工程方案&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-20" value="&#xa;客观量化指标与主观视觉分析&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-20" value="&#xa;系统局限性分析与并发、模型压缩等方向展望&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
