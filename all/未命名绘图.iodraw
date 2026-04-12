@@ -87,6 +87,11 @@
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGtHSAd3jiHRfbt-UKsJ-80" target="kGtHSAd3jiHRfbt-UKsJ-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-85" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kGtHSAd3jiHRfbt-UKsJ-83">
+          <mxGeometry x="0.0741" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-80" value="本地静态文件系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="566" y="632" width="120" height="25" as="geometry" />
         </mxCell>
