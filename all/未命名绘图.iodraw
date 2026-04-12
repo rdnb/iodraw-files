@@ -44,12 +44,12 @@
           <mxGeometry x="210" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-15" value="&#xa;数据集预处理与模型动态训练&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-16" value="&#xa;数据集预处理与模型动态训练&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-16" value="&#xa;软硬件测试环境与评估指标&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-17" value="&#xa;数据集预处理与模型动态训练&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-17" value="&#xa;客观量化指标与主观视觉分析&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
