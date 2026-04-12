@@ -94,7 +94,7 @@
           <mxGeometry x="40" y="490" width="109" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-88" value="表现层_前端视图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="371" y="568" width="109" height="26" as="geometry" />
+          <mxGeometry x="431" y="568" width="109" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
