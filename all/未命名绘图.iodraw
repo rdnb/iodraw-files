@@ -34,6 +34,11 @@
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="kGtHSAd3jiHRfbt-UKsJ-14" target="kGtHSAd3jiHRfbt-UKsJ-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-81" value="&lt;div&gt;HTTP/JSON 异步请求&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kGtHSAd3jiHRfbt-UKsJ-67">
+          <mxGeometry x="-0.0873" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-14" value="Chart.js 动态指标图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="420" width="155" height="42" as="geometry" />
         </mxCell>
