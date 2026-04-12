@@ -13,7 +13,7 @@
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-5" value="数据持久层_底层存储" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="91.00001220703126" y="63" width="143" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGtHSAd3jiHRfbt-UKsJ-11" target="kGtHSAd3jiHRfbt-UKsJ-14">
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGtHSAd3jiHRfbt-UKsJ-11" target="kGtHSAd3jiHRfbt-UKsJ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-11" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Web 浏览器交互端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
