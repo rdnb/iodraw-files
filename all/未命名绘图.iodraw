@@ -41,7 +41,7 @@
           <mxGeometry x="370" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-14" value="&#xa;语义约束联合损失函数构建&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-15" value="&#xa;前后端模块与数据持久化实现&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="780" width="120" height="60" as="geometry" />
