@@ -13,20 +13,14 @@
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-5" value="数据持久层_底层存储" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="91.00001220703126" y="63" width="143" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGtHSAd3jiHRfbt-UKsJ-10" target="kGtHSAd3jiHRfbt-UKsJ-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-10" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=54;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="286" y="204" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-11" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Web 浏览器交互端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="325" width="155" height="42" as="geometry" />
+          <mxGeometry x="686" y="289" width="155" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-13" value="HTML5/CSS3 布局响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="289" width="155" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-14" value="Chart.js 动态指标图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508" y="291" width="155" height="42" as="geometry" />
+          <mxGeometry x="505" y="289" width="155" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-15" value="JavaScript 正则安全校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="289" width="155" height="42" as="geometry" />
