@@ -43,8 +43,17 @@
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-58" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=5;labelPosition=left;align=right;" vertex="1" parent="1">
           <mxGeometry x="478" y="512" width="419" height="172" as="geometry" />
         </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-60" value="Flask Web 调度框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="672" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-61" value="PyTorch 深度学习引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-62" value="Flask Web 调度框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="432" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-63" value="Flask Web 调度框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="432" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
