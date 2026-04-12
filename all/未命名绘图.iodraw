@@ -46,7 +46,7 @@
           <mxGeometry x="348" y="332" width="136" height="41" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-56" value="表现层_前端视图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="74" y="233" width="109" height="26" as="geometry" />
+          <mxGeometry x="65" y="239" width="109" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-58" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=5;labelPosition=left;align=right;" vertex="1" parent="1">
           <mxGeometry x="378" y="588" width="328" height="95" as="geometry" />
@@ -89,7 +89,7 @@
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-85" value="I/O 读写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kGtHSAd3jiHRfbt-UKsJ-83">
           <mxGeometry x="0.0741" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="36" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-80" value="本地静态文件系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
