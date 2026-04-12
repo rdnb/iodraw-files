@@ -13,6 +13,9 @@
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-5" value="数据持久层_底层存储" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="91.00001220703126" y="63" width="143" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-8" value="&lt;li style=&quot;color: rgb(0, 0, 0); font: 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-weight: 400; line-height: 24px; text-align: start; white-space: normal; display: list-item; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box; background-color: rgba(0, 0, 0, 0);&quot;&gt;Web 浏览器交互端&lt;/li&gt;&#xa;&lt;li style=&quot;color: rgb(0, 0, 0); font: 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-weight: 400; line-height: 24px; text-align: start; white-space: normal; display: list-item; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box; background-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296.20001220703125" y="274.79998779296875" width="164" height="84" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
