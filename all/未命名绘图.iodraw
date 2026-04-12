@@ -34,6 +34,9 @@
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-15" value="JavaScript 正则安全校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="370" width="136" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-56" value="表现层_前端视图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="32" y="271" width="109" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
