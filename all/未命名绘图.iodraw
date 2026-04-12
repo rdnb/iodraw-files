@@ -14,16 +14,16 @@
           <mxGeometry x="305" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-5" value="Web 开发技术&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-6" value="对抗攻击算法原理&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-7" value="CNN 与空洞卷积&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-8" value="&lt;div&gt;生成对抗网络理论&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="185" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNG3Zu9RAscq4mk_Lngf-9" target="UNG3Zu9RAscq4mk_Lngf-11">
           <mxGeometry relative="1" as="geometry" />
