@@ -50,7 +50,7 @@
           <mxGeometry x="51" y="562" width="131" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-62" value="&lt;div&gt;APE-GAN 生成器模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="41" y="706" width="120" height="60" as="geometry" />
+          <mxGeometry x="52.5" y="644" width="128" height="22" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-63" value="&lt;div&gt;OpenCV 图像处理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="610" width="130" height="31" as="geometry" />
