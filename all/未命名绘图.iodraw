@@ -26,49 +26,19 @@
           <mxGeometry x="272" y="295" width="155" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-18" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=5;labelPosition=left;align=right;" vertex="1" parent="1">
-          <mxGeometry x="79" y="432" width="723" height="80" as="geometry" />
+          <mxGeometry x="89" y="286" width="723" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-19" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Web 浏览器交互端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="624" y="451" width="155" height="42" as="geometry" />
+          <mxGeometry x="634" y="305" width="155" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-20" value="HTML5/CSS3 布局响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="451" width="155" height="42" as="geometry" />
+          <mxGeometry x="110" y="305" width="155" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-21" value="Chart.js 动态指标图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="451" width="155" height="42" as="geometry" />
+          <mxGeometry x="453" y="305" width="155" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kGtHSAd3jiHRfbt-UKsJ-22" value="JavaScript 正则安全校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="272" y="451" width="155" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-38" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=5;labelPosition=left;align=right;" vertex="1" parent="1">
-          <mxGeometry x="79" y="567" width="723" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-39" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Web 浏览器交互端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="624" y="586" width="155" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-40" value="HTML5/CSS3 布局响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="586" width="155" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-41" value="Chart.js 动态指标图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="586" width="155" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-42" value="JavaScript 正则安全校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="272" y="586" width="155" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-43" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=5;labelPosition=left;align=right;" vertex="1" parent="1">
-          <mxGeometry x="139" y="336" width="723" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-44" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Web 浏览器交互端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="684" y="355" width="155" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-45" value="HTML5/CSS3 布局响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="355" width="155" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-46" value="Chart.js 动态指标图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="503" y="355" width="155" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="kGtHSAd3jiHRfbt-UKsJ-47" value="JavaScript 正则安全校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="332" y="355" width="155" height="42" as="geometry" />
+          <mxGeometry x="282" y="305" width="155" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
