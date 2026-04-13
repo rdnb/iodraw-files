@@ -8,13 +8,13 @@
           <mxGeometry x="65" y="190" width="460" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-2" value="研究背景及意义&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-3" value="国内外研究现状&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-4" value="本文主要工作与章节安排&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-5" value="Web 开发技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="380" width="100" height="30" as="geometry" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-20" value="&lt;br&gt;系统局限性分析与并发、模型压缩等方向展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="870" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="75" y="200" width="460" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
