@@ -44,16 +44,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-9" value="&lt;div&gt;B/S 总体架构与业务流程设计&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="435" width="100" height="40" as="geometry" />
+          <mxGeometry x="247.5" y="457.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNG3Zu9RAscq4mk_Lngf-10" target="UNG3Zu9RAscq4mk_Lngf-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-10" value="&lt;div&gt;功能与非功能需求分析&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="440" width="125" height="30" as="geometry" />
+          <mxGeometry x="72.5" y="462.5" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-11" value="&lt;div&gt;数据实体与表结构设计&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="427.5" width="90" height="55" as="geometry" />
+          <mxGeometry x="397.5" y="450" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-12" value="&lt;br&gt;数据集预处理与模型动态训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="660" width="120" height="60" as="geometry" />
