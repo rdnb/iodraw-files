@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="S1s9K7Ne-WIdSwdrNHfK">
-    <mxGraphModel dx="1002" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1852" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,8 +109,17 @@
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-38" value="第一章 绪论" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="35" y="158" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-39" value="第二章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="298" width="60" height="30" as="geometry" />
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-39" value="第二章 相关技术基础" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="298" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-40" value="第三章 需求分析与设计&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="403" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-41" value="第四章 算法改进与训练&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="513" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="628" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
