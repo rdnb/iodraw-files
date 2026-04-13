@@ -73,13 +73,13 @@
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UNG3Zu9RAscq4mk_Lngf-16" target="UNG3Zu9RAscq4mk_Lngf-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-16" value="&#xa;软硬件测试环境与评估指标&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-16" value="&lt;br&gt;软硬件测试环境与评估指标&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-17" value="&#xa;客观量化指标与主观视觉分析&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-17" value="&lt;br&gt;客观量化指标与主观视觉分析&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-18" value="&#xa;总结与展望&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-18" value="&lt;br&gt;总结与展望&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-19" value="&#xa;制定基于 APE-GAN 的图像防御与修复落地工程方案&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
