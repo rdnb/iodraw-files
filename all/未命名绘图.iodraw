@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="60" y="802.5" width="500" height="97.5" as="geometry" />
+          <mxGeometry x="50" y="760" width="500" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="60" y="440" width="460" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="60" y="582.5" width="510" height="87.5" as="geometry" />
+          <mxGeometry x="50" y="540" width="510" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="60" y="692.5" width="555" height="95" as="geometry" />
+          <mxGeometry x="50" y="650" width="500" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="50" y="317.5" width="555" height="95" as="geometry" />
@@ -68,43 +68,43 @@
           <mxGeometry x="397.5" y="450" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-12" value="&lt;br&gt;数据集预处理与模型动态训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="407.5" y="557.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNG3Zu9RAscq4mk_Lngf-13" target="UNG3Zu9RAscq4mk_Lngf-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-13" value="&lt;br&gt;生成器空洞卷积网络结构设计&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="62.5" y="557.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNG3Zu9RAscq4mk_Lngf-14" target="UNG3Zu9RAscq4mk_Lngf-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-14" value="&lt;br&gt;语义约束联合损失函数构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="242.5" y="557.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNG3Zu9RAscq4mk_Lngf-15" target="UNG3Zu9RAscq4mk_Lngf-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-15" value="&lt;br&gt;前后端模块与数据持久化实现&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="71.25" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="61.25" y="667.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UNG3Zu9RAscq4mk_Lngf-16" target="UNG3Zu9RAscq4mk_Lngf-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-16" value="&lt;br&gt;软硬件测试环境与评估指标&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="241.25" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="231.25" y="667.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-17" value="&lt;br&gt;客观量化指标与主观视觉分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="403.75" y="715" width="115" height="50" as="geometry" />
+          <mxGeometry x="393.75" y="672.5" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-18" value="&lt;br&gt;总结与展望&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="406.25" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="396.25" y="777.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-19" value="&lt;br&gt;制定基于 APE-GAN 的图像防御与修复落地工程方案&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251.25" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="241.25" y="777.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-20" value="&lt;br&gt;系统局限性分析与并发、模型压缩等方向展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="76.25" y="820" width="150" height="60" as="geometry" />
+          <mxGeometry x="66.25" y="777.5" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
