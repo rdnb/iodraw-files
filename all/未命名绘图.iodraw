@@ -14,7 +14,7 @@
           <mxGeometry x="50.5" y="525" width="459" height="51" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
-          <mxGeometry x="45.5" y="629.5" width="475" height="70" as="geometry" />
+          <mxGeometry x="52.75" y="627.5" width="475" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
           <mxGeometry x="50" y="364" width="540" height="51" as="geometry" />
@@ -89,16 +89,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-15" value="&lt;br&gt;前后端模块与数据持久化实现&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="56.75" y="637" width="120" height="60" as="geometry" />
+          <mxGeometry x="64" y="635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UNG3Zu9RAscq4mk_Lngf-16" target="UNG3Zu9RAscq4mk_Lngf-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-16" value="&lt;br&gt;软硬件测试环境与评估指标&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="226.75" y="637" width="120" height="60" as="geometry" />
+          <mxGeometry x="234" y="635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-17" value="&lt;br&gt;客观量化指标与主观视觉分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="389.25" y="642" width="115" height="50" as="geometry" />
+          <mxGeometry x="396.5" y="640" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-18" value="&lt;br&gt;总结与展望&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="396.5" y="750" width="120" height="60" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="40.5" y="501" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-42" value="第五章 系统的实现与测试&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40.5" y="602" width="160" height="40" as="geometry" />
+          <mxGeometry x="47.75" y="600" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-43" value="第六章 总结与展望&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="47.75" y="710" width="120" height="40" as="geometry" />
@@ -134,6 +134,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ESjvB-mPKVs3X4DHaZeT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UNG3Zu9RAscq4mk_Lngf-34" target="UNG3Zu9RAscq4mk_Lngf-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ESjvB-mPKVs3X4DHaZeT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UNG3Zu9RAscq4mk_Lngf-35" target="UNG3Zu9RAscq4mk_Lngf-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
