@@ -25,11 +25,11 @@
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-2" value="研究背景及意义&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="82.5" y="270" width="112.5" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-3" value="国内外研究现状&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="362.5" y="280" width="120" height="40" as="geometry" />
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-3" value="国内外研究现状" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="277" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UNG3Zu9RAscq4mk_Lngf-4" value="本文主要工作与章节安排&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="222.5" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="UNG3Zu9RAscq4mk_Lngf-4" value="本文主要工作与章节安排" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="222.5" y="270" width="118.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-5" value="Web 开发技术" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="383.75" width="100" height="30" as="geometry" />
