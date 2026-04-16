@@ -107,10 +107,10 @@
           <mxGeometry x="68.75" y="780.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-38" value="第一章 绪论" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="107.5" y="191" width="90" height="30" as="geometry" />
+          <mxGeometry x="36" y="241" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-39" value="第二章 相关技术基础" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="45" y="340" width="130" height="30" as="geometry" />
+          <mxGeometry x="40.5" y="338" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-40" value="第三章 需求分析与设计&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="51.25" y="435" width="150" height="40" as="geometry" />
