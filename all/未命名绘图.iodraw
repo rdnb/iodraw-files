@@ -20,10 +20,10 @@
           <mxGeometry x="50" y="362.5" width="540" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
-          <mxGeometry x="67.5" y="250" width="425.5" height="78" as="geometry" />
+          <mxGeometry x="73" y="265" width="420" height="63" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-2" value="研究背景及意义&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="82.5" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="82.5" y="270" width="112.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-3" value="国内外研究现状&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="362.5" y="280" width="120" height="40" as="geometry" />
