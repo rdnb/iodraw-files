@@ -11,7 +11,7 @@
           <mxGeometry x="47.75" y="440" width="436.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
-          <mxGeometry x="53.75" y="545" width="510" height="87.5" as="geometry" />
+          <mxGeometry x="53.75" y="545" width="498.25" height="76" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
           <mxGeometry x="55" y="660" width="475" height="70" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="380.5" y="446.25" width="97" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-12" value="数据集预处理与模型动态训练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="411.25" y="562.5" width="115.75" height="48.5" as="geometry" />
+          <mxGeometry x="403" y="558.75" width="107" height="41.25" as="geometry" />
         </mxCell>
         <mxCell id="UNG3Zu9RAscq4mk_Lngf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UNG3Zu9RAscq4mk_Lngf-13" target="UNG3Zu9RAscq4mk_Lngf-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
